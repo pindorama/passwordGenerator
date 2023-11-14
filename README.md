@@ -23,7 +23,7 @@ npm test
 5.  ** Getting Started Start the development server.**
 
 ```bash
-cd server
+cd PasswordGenerator/server
 node server.js
 ```
 
@@ -31,12 +31,6 @@ node server.js
 
 
 
-
-
-
-*GH Pages will only host static files, it's not your server to install libraries or run any code.
-
-The live development website should now appear at [http://localhost:3333](http://localhost:3333).
 
 
 
