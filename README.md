@@ -13,21 +13,21 @@ Set up your local development environment by following these steps:
 </p>
 3.  **Install NODE JS 
 [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+4.  **Open the project Folder PasswordGenerator in your VS Code and use the Terminal from VS Code to install the packages and Start the server **
 
-
-4.  **Install packages.**
+5.  **Install packages.**
 
 ```bash
 npm install 
 ```
 
-5.  **Getting Started the test with Jest**
+6.  **Getting Started the test with Jest**
 
 ```bash
 npm test
 ```
 
-6.  ** Getting Started Start the development server port 8181.**
+7.  ** Getting Started Start the development server port 8181.**
 
 ```bash
 cd PasswordGenerator/server
