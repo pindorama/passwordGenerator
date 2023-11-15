@@ -13,6 +13,7 @@ Set up your local development environment by following these steps:
 </p>
 3.  **Install NODE JS 
 [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+
 4.  **Open the project Folder PasswordGenerator in your VS Code and use the Terminal from VS Code to install the packages and Start the server **
 
 5.  **Install packages.**
