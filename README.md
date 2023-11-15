@@ -8,28 +8,31 @@ Set up your local development environment by following these steps:
 
 1.  **Install VS code on your local maschine
 2.  **Install extensions Live Server and activate the server with port 5500 you will find inside of the extensions in the VS code.
-3.  **Install packages.**
+<img width="299" alt="Bildschirmfoto 2023-11-15 um 08 00 03" src="https://github.com/pindorama/passwordGenerator/assets/5707956/e62db520-9dc9-43ce-8286-eb8fdc98e913">
+3.  **Install NODE JS 
+[https://nodejs.org/en/learn/getting-started/how-to-install-nodejs](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+
+
+4.  **Install packages.**
 
 ```bash
 npm install 
 ```
 
-4.  **Getting Started the test with Jest**
+5.  **Getting Started the test with Jest**
 
 ```bash
 npm test
 ```
 
-5.  ** Getting Started Start the development server.**
+6.  ** Getting Started Start the development server port 8181.**
 
 ```bash
 cd PasswordGenerator/server
 node server.js
 ```
 
-*if you don't have installed Node JS in your machine so you should install it [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs]
-
- The live development website should now appear at [http://127.0.0.1:5500/index.html]([http://127.0.0.1:5500/index.html]).
+ The live development website should now appear at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html).
 
 
 
