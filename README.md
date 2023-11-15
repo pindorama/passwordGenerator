@@ -8,7 +8,9 @@ Set up your local development environment by following these steps:
 
 1.  **Install VS code on your local maschine
 2.  **Install extensions Live Server and activate the server with port 5500 you will find inside of the extensions in the VS code.
+<p align="center">
 <img width="299" alt="Bildschirmfoto 2023-11-15 um 08 00 03" src="https://github.com/pindorama/passwordGenerator/assets/5707956/e62db520-9dc9-43ce-8286-eb8fdc98e913">
+</p>
 3.  **Install NODE JS 
 [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
 
